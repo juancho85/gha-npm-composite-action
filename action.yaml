@@ -4,7 +4,7 @@ description: 'Build npm'
 inputs:
   version-node:
     required: true
-    type: string
+    type: number
     default: 18
     description: "La versión de node en la que queremos probar"
 runs:
