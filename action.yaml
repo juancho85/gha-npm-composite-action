@@ -1,5 +1,5 @@
 
-name: Ejercicio de workflow compuesto
+name: Ejercicio de acción compuesta
 description: 'Build npm'
 inputs:
   version-node:
